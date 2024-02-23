@@ -1,0 +1,10 @@
+Tim MAX:
+Gia tri lon nhat: 999
+So lan so sanh: 9999
+Thoi gian thuc hien: 0.000000 seconds
+
+Tim kiem nhi phan:
+Gia tri can tim kiem: 977
+Vi tri dau tien cua gia tri can tim kiem: -1
+So lan so sanh: 14
+Thoi gian thuc hien: 0.000000 seconds
